@@ -1,5 +1,5 @@
 
-## 🐱 Proposal
+##  Matilda Website Revamp Funding Request Proposal 🐱
 
 Requesting **2 billion QUBIC** to the address  
 **JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM**  
