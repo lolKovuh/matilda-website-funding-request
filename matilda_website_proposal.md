@@ -1,4 +1,4 @@
-# Matilda Website Revamp
+# Satoshi's Cat ($MATILDA) Website Revamp
 
 ---
 
