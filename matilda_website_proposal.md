@@ -21,7 +21,7 @@ A revamped site with personality, clean design, and well-curated content would e
 ### By funding a high-quality redesign of the $MATILDA site, we aim to:
 
 - **Attract newcomers** to Qubic through a theory that sparks curiosity and naturally draws them in, increasing likelihood of turning passive investors into active, engaged community members.  
-- **Develop a visually stunning, high-quality site** that convincingly presents the CFB = Satoshi theory while simultaneously showcasing Sergey Ivancheglo’s verified achievements in the crypto space.  
+- **Develop a high-quality site** that convincingly presents the CFB = Satoshi theory while simultaneously showcasing Sergey Ivancheglo’s verified achievements in the crypto space.  
 - **Strengthen the overall optics of Qubic** by elevating one of its most recognizable meme tokens
 
 ---
