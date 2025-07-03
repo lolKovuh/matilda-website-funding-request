@@ -4,9 +4,14 @@
 
 ## 🐱 Funding Request Proposal 
 
-Requesting **2 billion QUBIC** to the address  
-**JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM**  
-in order to fund a complete revamp of the **Satoshi’s Cat ($MATILDA)** website.
+Requesting **2 billion QUBIC** to the address:  
+`JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM`  
+to fund a complete revamp of the **Satoshi’s Cat ($MATILDA)** website.
+
+**Available Options:**
+
+- **Option 0**: No, I don’t want this proposal funded  
+- **Option 1**: Yes, approve the budget of 2 billion QUBIC
 
 ---
 
@@ -42,9 +47,14 @@ By securing external funding of 2 billion QUBIC, we can develop a high-quality, 
 
 ## 🐱 资金请求提案
 
-请求将 **20亿 QUBIC** 转至地址  
-**JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM**  
+请求将 **20亿 QUBIC** 转至地址：  
+`JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM`  
 以资助对 **Satoshi’s Cat ($MATILDA)** 网站的全面改版。
+
+**可选项：**
+
+- **选项 0**：不支持该提案  
+- **选项 1**：是的，批准 20 亿 QUBIC 的预算
 
 ---
 
