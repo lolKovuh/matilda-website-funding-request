@@ -30,7 +30,7 @@ A revamped site with personality, clean design, and well-curated content would e
 
 Although $MATILDA has a designated marketing wallet, we are intentionally not using it for this initiative due to the relatively low market capitalization. 
 
-Given $MATILDA’s high growth potential, selling $2,000–$3,000 worth of tokens at the current market cap of $300k–$400k would be shortsighted. It would also reduce the wallet’s capacity to support future high-impact marketing efforts.
+Given $MATILDA’s high growth potential, selling $3,000 worth of tokens at the current market cap of $300k–$400k would be shortsighted. It would also reduce the wallet’s capacity to support future high-impact marketing efforts.
 
 By securing external funding of 2 billion QUBIC, we can develop a high-quality, engaging website that elevates both Qubic and $MATILDA’s optics as it serves as a compelling gateway for newcomers to the Qubic ecosystem. This strategy preserves the marketing wallet for future opportunities when token sales will have minimal impact on market dynamics.
 
