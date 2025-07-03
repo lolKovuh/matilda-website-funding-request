@@ -33,7 +33,7 @@ A revamped site with personality, clean design, and well-curated content would e
 
 ## Rationale for Funding Request
 
-Although $MATILDA has a designated marketing wallet, we are intentionally not using it for this initiative due to the relatively low market capitalization. 
+Although $MATILDA has a designated marketing wallet, we are intentionally not using it for this initiative due to the current relatively low market capitalization. 
 
 Given $MATILDA’s high growth potential, selling $3,000 worth of tokens at the current market cap of $300k–$400k would be shortsighted. It would also reduce the wallet’s capacity to support future high-impact marketing efforts.
 
