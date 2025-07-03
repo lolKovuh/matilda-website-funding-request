@@ -21,7 +21,7 @@ We are requesting funding to completely revamp the website for **Satoshi’s Cat
 
 As the first animal-themed memecoin on Qubic and one that symbolically references its founder through his real life cat, $MATILDA naturally serves as an obvious beta play for newcomers.
 
-A revamped site with personality, clean design, and well-curated content would elevate first impressions. It would serve as an engaging gateway to Qubic, drawing visitors into the CFB = Satoshi theory, a path that, regardless of the truth, highlights Sergey Ivancheglo’s verified achievements and role in pioneering the crypto industry. 
+A revamped site with personality, clean design, and well-curated content would elevate first impressions of the ecosystem. It would serve as an engaging gateway to Qubic, drawing visitors into the CFB = Satoshi theory, a path that, regardless of the truth, highlights Sergey Ivancheglo’s verified achievements and role in pioneering the crypto industry. 
 
 ### By funding a high-quality redesign of the $MATILDA site, we aim to:
 
