@@ -64,7 +64,7 @@ By securing external funding of 2 billion QUBIC, we can develop a high-quality, 
 
 作为 Qubic 上首个以动物为主题的 meme币，且通过其创始人的真实宠物猫具象化符号，$MATILDA 自然成为新用户的明显入门选择。
 
-一个具备个性、设计简洁且内容精心策划的新版网站将提升第一印象。它将作为通往 Qubic 的吸引门户，引导访客深入了解 CFB = Satoshi 理论——无论真相如何，这条路径都凸显了 Sergey Ivancheglo 在加密行业开创性贡献的确凿成就与角色。
+一个具备个性、设计简洁且内容精心策划的新版网站将提升对整个生态系统的第一印象。它将作为通往 Qubic 的吸引门户，引导访客深入了解 CFB = Satoshi 理论——无论真相如何，这条路径都凸显了 Sergey Ivancheglo 在加密行业开创性贡献的确凿成就与角色。
 
 ### 通过资助 $MATILDA 网站的高质量改版，我们旨在：
 
