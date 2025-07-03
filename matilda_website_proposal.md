@@ -6,7 +6,7 @@
 
 Requesting **2 billion QUBIC** to the address:  
 `JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM`  
-to fund a complete revamp of the **Satoshi’s Cat ($MATILDA)** website.
+in order to fund a complete revamp of the **Satoshi’s Cat ($MATILDA)** website.
 
 **Available Options:**
 
