@@ -52,8 +52,20 @@ By securing external funding of 1 billion QUBIC, we can develop a high-quality, 
 
 ---
 
-# 中译版：Satoshi's Cat ($MATILDA) 网站改版
+# 中译版：Satoshi's Cat ($MATILDA) 网站改版 (已降价)
 
+---
+
+## 🐱 资金请求提案 (已降价)
+
+请求将 **10亿 QUBIC** 转至地址：  
+`JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM`  
+以资助对 **Satoshi’s Cat ($MATILDA)** 网站的全面改版。
+
+**可选项：**
+
+- **选项 0**：不支持该提案  
+- **选项 1**：是的，批准降价后的 10 亿 QUBIC 预算
 ---
 
 **更新：**  
@@ -64,19 +76,6 @@ By securing external funding of 1 billion QUBIC, we can develop a high-quality, 
 **CCF** 的存在本就是为了推动 Qubic 的发展。而不去利用这个基金来支持 Qubic 最强大、最常被使用的传播叙事之一（**CFB = Satoshi**），正如本提案中所阐述的，是一种机会的浪费。出售 10 亿 QUBIC 对市场没有实际冲击（甚至不确定网站建设者是否会出售），因此我们推测反对的理由只是因为“迷因项目申请资金”这个事实。
 
 **总结：** 不应因为项目是迷因、黑客松还是实用工具而决定是否值得资助。真正重要的是它是否对 Qubic 是一个**净正向的推动**。迷因在加密生态中的影响已无需多言（如 Bonk、Shiba 等），认为只有“严肃项目”才值得资助的想法已经过时。
-
----
-
-## 🐱 资金请求提案
-
-请求将 **10亿 QUBIC** 转至地址：  
-`JICUNOMUXDPNPGBVDQAQVEKVNBRCKZMDCPHMXZSWTGOVATZLCZSMVXMBZPCM`  
-以资助对 **Satoshi’s Cat ($MATILDA)** 网站的全面改版。
-
-**可选项：**
-
-- **选项 0**：不支持该提案  
-- **选项 1**：是的，批准 10 亿 QUBIC 的预算
 
 ---
 
